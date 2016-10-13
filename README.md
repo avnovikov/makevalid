@@ -2,7 +2,7 @@
 makevalid
 =========
 
-PostGIS ST_MakeValid equivalent using Shapely
+PostGIS ST_MakeValid equivalent using Shapely and R-Tree.
 
 ### Installation
 ```bash
